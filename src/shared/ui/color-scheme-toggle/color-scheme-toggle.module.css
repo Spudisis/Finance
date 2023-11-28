@@ -1,0 +1,14 @@
+.iconSize {
+  font-size: 20px;
+}
+.buttonColorLight {
+  color: var(--mantine-color-orange-8);
+  border: 1px solid var(--mantine-color-orange-8);
+}
+.buttonColorDark {
+  color: var(--mantine-color-gray-2);
+  border: 1px solid var(--mantine-color-gray-2);
+}
+.buttonPadding {
+  padding: 8px;
+}
